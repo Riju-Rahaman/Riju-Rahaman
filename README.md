@@ -1,13 +1,23 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💫+Riju+Rahaman)](https://git.io/typing-svg)<br/> 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;Cybersecurity+Warrior;Red+Teamer+%7C+Ghost+Hacker;Creator+of+19%2B+AI+Chatbots)]()<br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🛠️+I’m+currently+working+on+building+a+terminal-based+Linux+OS+from+scratch)](https://git.io/typing-svg)<br/> 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=and+developing+an+advanced+C%2B%2B+compiler+that+compiles+to+assembly.)](https://git.io/typing-svg)  <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🤝+I’m+looking+to+collaborate+on+open-source+projects+related+to+Operating+Systems,+AI+development,+and+Cybersecurity+tools.)](https://git.io/typing-svg)  <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🧩+I’m+looking+for+help+with+advanced+compiler+design+techniques,+low-level+OS+optimization,+and+system-level+programming+in+C/C%2B%2B.)](https://git.io/typing-svg)  <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🌱+I’m+currently+learning+Assembly+Language,+OS+Development,+Compiler+Theory,+and+Python+for+data+science+projects.)](https://git.io/typing-svg)  <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💬+Ask+me+about:+AI+Chatbot+Development,+Terminal-based+OS+projects,+GitHub+repositories,+and+certifications+in+Data+Science+and+AI.)](https://git.io/typing-svg) <br/> 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=⚡+Fun+fact:+I’ve+built+my+own+AI+chatbot+using+Google+APIs+and+actively+share+tech+insights+through+projects.)](https://git.io/typing-svg)<br/>
+🛠️ I’m currently working on
+Building a terminal-based Linux OS from scratch and developing an advanced C++ compiler that compiles to assembly.
 
+🤝 I’m looking to collaborate on
+Open-source projects related to Operating Systems, AI development, and Cybersecurity tools.
+
+🧩 I’m looking for help with
+Advanced compiler design techniques, low-level OS optimization, and system-level programming in C/C++.
+
+🌱 I’m currently learning
+Assembly Language, OS Development, and Compiler Theory, along with refining my Python for data science projects.
+
+💬 Ask me about
+AI Chatbot Development, Terminal-based OS projects, GitHub repositories, and certifications in Data Science and AI.
+
+⚡ Fun fact
+I’ve built my own AI chatbot using Google APIs and actively share tech insights through projects
+ make this with <br/>
 
 
 ## 🌐 Socials:
