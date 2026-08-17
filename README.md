@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💫+Riju+Rahaman)](https://git.io/typing-svg)<br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;Cybersecurity;)]()
 
-</div>
+
 LARP LARP LARP <br/>
 
 
@@ -22,3 +22,4 @@ LARP LARP LARP <br/>
 
 ---
 [![](https://komarev.com/ghpvc/?username=Riju-Rahaman&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
