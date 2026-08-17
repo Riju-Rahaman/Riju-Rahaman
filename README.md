@@ -21,21 +21,25 @@ LARP LARP LARP <br/>
 
 # 📊 GitHub Stats
 
-<table>
+<div align="center">
+
+<table style="border: none; background: transparent;">
 <tr>
-<td>
+<td style="border: none; background: transparent;">
 
 <img src="https://github-readme-stats.shion.dev/api?username=Riju-Rahaman&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
 
 </td>
-<td>
+
+<td style="border: none; background: transparent;">
 
 <img src="https://streak-stats.demolab.com/?user=Riju-Rahaman&theme=dark&hide_border=false">
 
 </td>
 </tr>
+
 <tr>
-<td colspan="2">
+<td colspan="2" style="border: none; background: transparent;">
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Riju-Rahaman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
