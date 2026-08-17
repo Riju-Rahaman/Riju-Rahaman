@@ -1,23 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💫+Riju+Rahaman)](https://git.io/typing-svg)<br/> 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;Cybersecurity;)]()<br/>
-🛠️ I’m currently working on
-Building a terminal-based Linux OS from scratch and developing an advanced C++ compiler that compiles to assembly.
+<div align="center">
 
-🤝 I’m looking to collaborate on
-Open-source projects related to Operating Systems, AI development, and Cybersecurity tools.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💫+Riju+Rahaman)](https://git.io/typing-svg)<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;Cybersecurity;)]()
 
-🧩 I’m looking for help with
-Advanced compiler design techniques, low-level OS optimization, and system-level programming in C/C++.
-
-🌱 I’m currently learning
-Assembly Language, OS Development, and Compiler Theory, along with refining my Python for data science projects.
-
-💬 Ask me about
-AI Chatbot Development, Terminal-based OS projects, GitHub repositories, and certifications in Data Science and AI.
-
-⚡ Fun fact
-I’ve built my own AI chatbot using Google APIs and actively share tech insights through projects
- make this with <br/>
+</div>
+LARP LARP LARP <br/>
 
 
 ## 🌐 Socials:
