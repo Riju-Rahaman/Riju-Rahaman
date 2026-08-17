@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💫+Riju+Rahaman)](https://git.io/typing-svg)<br/> 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;Cybersecurity+Warrior;Red+Teamer+%7C+Ghost+Hacker;Creator+of+19%2B+AI+Chatbots)]()<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;Cybersecurity;)]()<br/>
 🛠️ I’m currently working on
 Building a terminal-based Linux OS from scratch and developing an advanced C++ compiler that compiles to assembly.
 
