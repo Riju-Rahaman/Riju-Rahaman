@@ -17,9 +17,7 @@ LARP LARP LARP <br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<div align="center">
 
-# 📊 GitHub Stats
 <div align="center">
 
 # 📊 GitHub Stats
