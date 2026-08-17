@@ -20,20 +20,21 @@ LARP LARP LARP <br/>
 <div align="center">
 
 # 📊 GitHub Stats
-
 <div align="center">
+
+# 📊 GitHub Stats
 
 <table style="border: none; background: transparent;">
 <tr>
 <td style="border: none; background: transparent;">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Riju-Rahaman&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+<img src="https://github-readme-stats.shion.dev/api?username=Riju-Rahaman&theme=dark&hide_border=true&include_all_commits=false&count_private=false">
 
 </td>
 
 <td style="border: none; background: transparent;">
 
-<img src="https://streak-stats.demolab.com/?user=Riju-Rahaman&theme=dark&hide_border=false">
+<img src="https://streak-stats.demolab.com/?user=Riju-Rahaman&theme=dark&hide_border=true">
 
 </td>
 </tr>
@@ -41,10 +42,18 @@ LARP LARP LARP <br/>
 <tr>
 <td colspan="2" style="border: none; background: transparent;">
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Riju-Rahaman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Riju-Rahaman&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=Riju-Rahaman&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
